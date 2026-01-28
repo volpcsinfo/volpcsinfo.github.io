@@ -1,0 +1,39 @@
+Política de Privacidad de VolpSound
+Fecha de última actualización: 27 de enero de 2026
+
+En VolpSound, valoramos y respetamos la privacidad de nuestros usuarios. Esta política describe cómo se maneja la información en nuestra aplicación móvil.
+
+1. Recopilación de Información
+VolpSound es una aplicación de gestión de hábitos y tareas que prioriza la privacidad del usuario.
+
+Datos del Usuario: Toda la información que ingresas (hábitos, tareas, registros) se almacena de forma local en tu dispositivo mediante una base de datos SQLite. Nosotros no tenemos acceso a estos datos ni los almacenamos en servidores externos.
+
+Archivos de Audio: Si utilizas funciones de sonido, el acceso a los archivos se gestiona localmente en el dispositivo.
+
+2. Proveedores de Servicios (Publicidad)
+Para mantener la aplicación gratuita, utilizamos Google AdMob para mostrar anuncios. AdMob puede recopilar y utilizar ciertos datos para mostrar anuncios relevantes:
+
+Identificadores de publicidad de Android: Utilizados para personalizar anuncios y medir su rendimiento.
+
+Cookies y datos de uso: Google puede utilizar tecnologías para recopilar información sobre cómo interactúas con los anuncios.
+
+Puedes consultar la política de Google aquí: Políticas de Privacidad y Términos de Google.
+
+3. Permisos del Dispositivo
+Para el correcto funcionamiento, la app puede solicitar:
+
+Almacenamiento: Para guardar tu base de datos local.
+
+Internet: Para cargar los anuncios de AdMob.
+
+4. Seguridad de los Datos
+Dado que tus datos se guardan localmente en tu teléfono, la seguridad de los mismos depende de la seguridad de tu dispositivo. Si desinstalas la aplicación o borras los datos de la misma, toda la información guardada en SQLite se eliminará permanentemente. Nosotros no podemos recuperar esos datos por ti.
+
+5. Privacidad de los Niños
+Nuestra aplicación no está dirigida a niños menores de 13 años. No recopilamos conscientemente información de identificación personal de niños.
+
+6. Cambios en esta Política
+Podemos actualizar nuestra Política de Privacidad de vez en cuando. Te recomendamos revisar esta página periódicamente para ver cualquier cambio.
+
+7. Contacto
+Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos en: Correo electrónico: plvaldiviesoo@gmail.com
